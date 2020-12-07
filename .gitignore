@@ -1,0 +1,6 @@
+bin/*/*.class
+rapport/*.out
+rapport/*.log
+rapport/*.aux
+rapport/*.toc
+rapport/*synctex.gz
